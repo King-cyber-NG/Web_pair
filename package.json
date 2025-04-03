@@ -1,12 +1,12 @@
 {
-"name": "*𓂀 👑 𝙺𝚒𝚗𝚐▯𝙳𝚊𝚛𝚔 𝙼𝚊𝚝𝚛𝚒𝚡 ᵇʸ 𝐍𝐆*",
+"name": "Robin-web-pair",
     "version": "0.0.1",
     "description": "A multi functional whatsapp bot Web paircode.",
     "main": "index.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name *𓂀 👑 𝙺𝚒𝚗𝚐▯𝙳𝚊𝚛𝚔 𝙼𝚊𝚝𝚛𝚒𝚡 ᵇʸ 𝐍𝐆*",
-      "stop": "pm2 stop *𓂀 👑 𝙺𝚒𝚗𝚐▯𝙳𝚊𝚛𝚔 𝙼𝚊𝚝𝚛𝚒𝚡 ᵇʸ 𝐍𝐆*",
-     "restart": "pm2 restart *𓂀 👑 𝙺𝚒𝚗𝚐▯𝙳𝚊𝚛𝚔 𝙼𝚊𝚝𝚛𝚒𝚡 ᵇʸ 𝐍𝐆*"
+      "start": "pm2 start index.js --deep-monitoring --attach --name Robin",
+      "stop": "pm2 stop Robin",
+     "restart": "pm2 restart Robin"
     },
   "dependencies": {
     "@whiskeysockets/baileys": "^10.3.3",
